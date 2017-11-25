@@ -1,0 +1,1 @@
+convert -resize 50%  -compress none cows.ascii.pgm resized_cows.ascii.pgm
